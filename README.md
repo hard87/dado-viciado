@@ -1,7 +1,7 @@
 # Dado Viciado
 
 <i> Dado, Dado, Dado<br>
-    O que fizeram com você?</i><br>
+    O que fizeram com você?</i><br> 🎶
     
     É dificil gostar de Legião Urbana e de dados e não pensar em uma paródia da música Dado viciado, com dados.<br>
     Se Renato Russo estivesse vivo nos dias de hoje, certamente diria algo do tipo:
