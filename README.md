@@ -7,5 +7,5 @@
     Se Renato Russo estivesse vivo nos dias de hoje, certamente diria algo do tipo:
 ><i>- O Dado tá mais famoso que eu hoje em dia, tudo é dado!!! Esse danadinho!</i><br>
 <br>
-A letra da música fala sobre um assunto muito sério, e esta é minha maneira de homenagear esses caras que marcaram uma época e que estão um tanto esquecidos hoje em dia.<br>
-Só para esclarecer, este é um repositório sobre dados 😂
+A letra da música fala sobre um assunto muito sério, e esta é minha maneira de homenagear esses caras que marcaram uma época e que estão um tanto esquecidos por uma geração viciada em gerar dados<br>
+Só para deixar claro, este é um repositório sobre dados 😂
